@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Lineage of Code"
-date:       2017-10-10 06:04:05 +0000
+date:       2017-10-10 02:04:06 -0400
 permalink:  a_lineage_of_code
 ---
 
